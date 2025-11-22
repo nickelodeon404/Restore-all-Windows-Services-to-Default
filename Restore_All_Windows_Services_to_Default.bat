@@ -1,4 +1,4 @@
-:: Batch Script Created by FreeBooter.
+:: Batch Script Created by Dominic Ama.
 
 @Echo Off & Cls
 
@@ -1324,4 +1324,5 @@ If Not %ERRORLEVEL% EQU 0 (
  Pause >Nul & Exit
 )
 Cls
+
 Goto :EOF
